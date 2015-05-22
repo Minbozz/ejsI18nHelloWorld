@@ -1,0 +1,8 @@
+{
+    "hello": {
+        "world": "Hello World!"
+    },
+    "route": {
+        "imprint": "route.imprint"
+    }
+}
